@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379771577016",
+    "project_id": "netflix-e637b",
+    "storage_bucket": "netflix-e637b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379771577016:android:f131ae4010d62ebf35ca4d",
+        "android_client_info": {
+          "package_name": "e.ashmita.netflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1_LPMnRrY5SvHvNyA5q4upvnI0ZwFWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
